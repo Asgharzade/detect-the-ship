@@ -1,6 +1,6 @@
 # Ship Detection Project
 
-This project involves a machine learning system designed to detect ships in images and classify their properties.
+This project involves a sophisticated machine learning system designed to detect ships in satellite imagery and classify their various properties. The system employs computer vision techniques and deep learning models to analyze maritime vessel characteristics from aerial photographs. It can identify ship presence, determine vessel locations, classify ship types, and extract other relevant features that are crucial for maritime surveillance and monitoring applications. The project demonstrates the practical application of artificial intelligence in maritime domain awareness and showcases how modern ML techniques can be leveraged for automated ship detection and classification tasks.
 
 ## Overview
 
